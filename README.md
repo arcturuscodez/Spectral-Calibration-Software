@@ -31,6 +31,9 @@ The software was developed for the developers thesis project
 - Python 3.8
 
 ### Steps
+
+Note: These steps are only relevant for students at Aalto or Metsähovi Radio Observatory who have access to the GitLab. Otherwise clone and run the software in your personal environment as you would normally from this repository.
+
 1. Clone the repository:
    ```sh
    git clone git@version.aalto.fi:student-projects/spectral-calibration.git
