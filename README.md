@@ -48,7 +48,7 @@ Note: These steps are only relevant for students at Aalto or Metsähovi Radio Ob
 
 Options can be viewed below, or in software through the use of -h
 
-1.  Options Avaiable 
+1.  Options Available 
     ```sh
     Usage: main [-option] <directory>
 
