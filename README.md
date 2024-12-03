@@ -16,6 +16,8 @@ This software is developed to process and calibrate spectral data, specifically 
 
 The software was developed during a thesis project for the developer's bachelor's degree.
 
+The thesis can be viewed at this link : https://urn.fi/URN:NBN:fi:amk-2024090524798
+
 The software is currently used by Metsähovi Radio Observatory for the calibration and isolation of astrophysical maser emissions.
 
 ## Features
