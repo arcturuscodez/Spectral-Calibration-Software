@@ -6,7 +6,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [Contact](#contact)
